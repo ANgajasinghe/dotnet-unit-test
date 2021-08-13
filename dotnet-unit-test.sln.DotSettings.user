@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=04a6ec09_002Da739_002D427e_002Dbc62_002D9f128dcfd4a0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TodoListTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::EF8FB070-E6B8-4046-843F-12ABC3A76F89::net5.0::Basics.TodoListTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EF8FB070-E6B8-4046-843F-12ABC3A76F89::net5.0::Basics.CacheTest.CachesItemWithinTimeSpan&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EF8FB070-E6B8-4046-843F-12ABC3A76F89::net5.0::Basics.CacheTest.Contains_ReturnsFalse_WhenOutsideTimeSpan&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EF8FB070-E6B8-4046-843F-12ABC3A76F89::net5.0::Basics.CacheTest.Contains_ReturnsFalse_WhenDoesntContainItem&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EF8FB070-E6B8-4046-843F-12ABC3A76F89::net5.0::Basics.PropertyHashTests.PropertyHash_ConcatenatesSelectedFieldsInOrder&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EF8FB070-E6B8-4046-843F-12ABC3A76F89::net5.0::Basics.PropertyHashTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
